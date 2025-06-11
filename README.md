@@ -4,7 +4,7 @@ Uploads a file to MOVEit Transfer using the REST API. Tested on Fedora 42.
 
 ## Dependencies
 
-curl
+libcurl
 
 nlohmann_json
 
